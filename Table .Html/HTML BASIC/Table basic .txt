@@ -1,4 +1,0 @@
-HTML Table
-        tr - Table Row
-        td Table Column or Table Data
-        border="1" - Gives you border around table
